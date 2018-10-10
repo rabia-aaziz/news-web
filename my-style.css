@@ -1,0 +1,118 @@
+
+#logo {
+    background-image: url("image/sky-news.png");
+    background-size: cover;
+    background-position: center;
+    height: 50px;
+    width: 200px;
+}
+
+.sport {
+    height: 100x;
+    width: 120px;
+    float: left;
+}
+
+.sign-up {
+    background-color: #999999;
+}
+
+.sportss {
+    height: 70px;
+    width: 330px;
+    margin-bottom: 60px;
+    margin-left: 20px;
+}
+
+.single_left_coloum {
+    width: 140.994px;
+    height: 312.898px !important;
+}
+
+#tech-news-1, #tech-news-2, #tech-news-3, #tech-news-4 {
+    padding: 5px;
+    height: 430px;
+}
+
+.logo {
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.slider {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("image/abc.jpg");
+}
+
+.img-1, .img-2, .img-3, .dom-img-1, .dom-img-2, .dom-img-3 {
+    height: 100px;
+    background-size: cover;
+    background-position: center;
+}
+
+.sport-img-1, .sport-img-2, .sport-img-3 {
+    width: 129px;
+    height: 120px;
+    background-size: cover;
+    background-position: center;
+}
+
+.tech-img-1, .tech-img-2, .tech-img-3, .tech-img-4 {
+    background-size: cover;
+    background-position: center;
+    height: 200px;
+    widows: 200px;
+}
+
+.busi-img-1, .busi-img-2, .busi-img-3, .health-img-1, .health-img-2, .health-img-3, .health-img-4 {
+    background-size: cover;
+    background-position: center;
+    width: 140px;
+    height: 74.063px;
+}
+
+#ads-div {
+    padding: 9px;
+}
+
+.ads-1 {
+    margin-top: 10px;
+}
+
+.single_left_coloum {
+    height: 350px !important;
+}
+
+.sports-section {
+    padding: 5px;
+}
+
+h5 {
+    margin-top: 16px !important;
+}
+
+#img-1 {
+    height: 140px;
+    width: 250px;
+    background-size: cover;
+    background-position: center;
+}
+
+.popular_more {
+    margin: 0px;
+}
+
+.abc {
+    display: flex;
+}
+
+.sports-sec-1, .sports-sec-2 {
+    width: 435px;
+    height: 120px;
+}
+
+.sport-desc-1 {
+    width: 306px;
+}
