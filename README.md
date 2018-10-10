@@ -15,6 +15,8 @@ To make this application, we're going to need to cover the following tools and l
 - Google-Font (Making the web more beautiful, fast, and open through great typography).
 - Font-awsome (Font Awesome makes it easy to add vector icons and social logos to your website.).
 - News Template.
+
+### What does it look like?
 ![mockup-en](https://github.com/rabia-aaziz/news-web/blob/master/image/news.png)
 
 
